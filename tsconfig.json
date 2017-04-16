@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "target": "ES5",
+        "outFile": "./js/typed.js",
+        "rootDir": "./ts",
+        "noEmitOnError": true
+    },
+    "exclude": [
+        "./js",
+        "./dist",
+        "./node_modules"
+    ]
+}

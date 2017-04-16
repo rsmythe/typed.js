@@ -1,19 +1,28 @@
 {
-  "name": "typed.js",
+  "name": "typed.ts",
   "version": "1.1.6",
   "homepage": "https://github.com/mattboldt/typed.js",
   "authors": [
-    "Matt Boldt <me@mattboldt.com>"
+    "Matt Boldt <me@mattboldt.com>",
+    "Ryan Smythe"
   ],
-  "description": "A jQuery typing animation script",
+  "description": "A TypeScript typing animation script",
   "main": "dist/typed.min.js",
   "keywords": [
     "typed",
-    "animation"
+    "animation",
+    "typescript"
   ],
   "devDependencies": {
+    "@types/jquery": "^2.0.41",
     "gulp": "^3.9.1",
+    "gulp-natural-sort": "^0.1.1",
     "gulp-rename": "^1.2.0",
-    "gulp-uglify": "^1.1.0"
-  }
+    "gulp-sourcemaps": "^2.6.0",
+    "gulp-typescript": "^3.1.6",
+    "gulp-uglify": "^2.1.2",
+    "merge2": "^1.0.3",
+    "typescript": "^2.2.2"
+  },
+  "dependencies": {}
 }
