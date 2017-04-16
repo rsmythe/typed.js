@@ -7,7 +7,7 @@ All credit goes to Matt Boldt and the contributers on [Typed.js.](https://github
 All I did was convert it to TypeScript
 
 ---
-## Typed.js
+## Typed.s
 
 [View the live demo](http://www.mattboldt.com/demos/typed-js/) | [Original Author, mattboldt.com](http://www.mattboldt.com)
 
